@@ -24,10 +24,10 @@ while True:
     elif re.search('\s',pwd):
         break
     else:
-        print("valid")
+        print("valid password:",pwd)
         sys.exit()
 
-print("invalid")
+print("invalid password:",pwd)
 
 
 
