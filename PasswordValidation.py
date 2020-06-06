@@ -29,8 +29,8 @@ while True:
 
 print("invalid password:",pwd)
 
-#here we completed our project successfully
-
+#here we completed our project successfully.###
+# it was a mini project
 
 
 
